@@ -1,0 +1,33 @@
+{
+    "author": "kabestin software products",
+    "dependencies": {},
+    "keywords": [],
+    "name": "wyb",
+    "pebble": {
+        "displayName": "Wear Your Bar Code",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/icon.png",
+                    "menuIcon": true,
+                    "name": "wyb_icon",
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite"
+        ],
+        "uuid": "D8477C50-0205-452A-BB45-30B00606EF8B",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "2.0.0"
+}
